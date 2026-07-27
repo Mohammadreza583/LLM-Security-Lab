@@ -1,0 +1,4 @@
+providers:
+  - python:promptfoo_provider.py
+
+tests: tests.yaml
